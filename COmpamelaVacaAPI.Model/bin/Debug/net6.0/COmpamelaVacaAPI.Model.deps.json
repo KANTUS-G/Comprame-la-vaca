@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "COmpamelaVacaAPI.Model/1.0.0": {
+        "runtime": {
+          "COmpamelaVacaAPI.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "COmpamelaVacaAPI.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

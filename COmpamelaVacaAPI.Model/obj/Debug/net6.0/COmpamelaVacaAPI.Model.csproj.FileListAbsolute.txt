@@ -1,0 +1,12 @@
+C:\Users\LENOVO\source\repos\COmpamelaVacaAPI\COmpamelaVacaAPI.Model\bin\Debug\net6.0\COmpamelaVacaAPI.Model.deps.json
+C:\Users\LENOVO\source\repos\COmpamelaVacaAPI\COmpamelaVacaAPI.Model\bin\Debug\net6.0\COmpamelaVacaAPI.Model.dll
+C:\Users\LENOVO\source\repos\COmpamelaVacaAPI\COmpamelaVacaAPI.Model\bin\Debug\net6.0\COmpamelaVacaAPI.Model.pdb
+C:\Users\LENOVO\source\repos\COmpamelaVacaAPI\COmpamelaVacaAPI.Model\obj\Debug\net6.0\COmpamelaVacaAPI.Model.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\COmpamelaVacaAPI\COmpamelaVacaAPI.Model\obj\Debug\net6.0\COmpamelaVacaAPI.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\COmpamelaVacaAPI\COmpamelaVacaAPI.Model\obj\Debug\net6.0\COmpamelaVacaAPI.Model.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\COmpamelaVacaAPI\COmpamelaVacaAPI.Model\obj\Debug\net6.0\COmpamelaVacaAPI.Model.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\COmpamelaVacaAPI\COmpamelaVacaAPI.Model\obj\Debug\net6.0\COmpamelaVacaAPI.Model.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\COmpamelaVacaAPI\COmpamelaVacaAPI.Model\obj\Debug\net6.0\COmpamelaVacaAPI.Model.dll
+C:\Users\LENOVO\source\repos\COmpamelaVacaAPI\COmpamelaVacaAPI.Model\obj\Debug\net6.0\refint\COmpamelaVacaAPI.Model.dll
+C:\Users\LENOVO\source\repos\COmpamelaVacaAPI\COmpamelaVacaAPI.Model\obj\Debug\net6.0\COmpamelaVacaAPI.Model.pdb
+C:\Users\LENOVO\source\repos\COmpamelaVacaAPI\COmpamelaVacaAPI.Model\obj\Debug\net6.0\ref\COmpamelaVacaAPI.Model.dll

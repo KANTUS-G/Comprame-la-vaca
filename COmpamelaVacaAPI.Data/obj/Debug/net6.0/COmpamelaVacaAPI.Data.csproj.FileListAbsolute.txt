@@ -1,0 +1,17 @@
+C:\Users\LENOVO\source\repos\COmpamelaVacaAPI\COmpamelaVacaAPI.Data\bin\Debug\net6.0\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\LENOVO\source\repos\COmpamelaVacaAPI\COmpamelaVacaAPI.Data\bin\Debug\net6.0\Cosmos.CRTCompat.dll
+C:\Users\LENOVO\source\repos\COmpamelaVacaAPI\COmpamelaVacaAPI.Data\bin\Debug\net6.0\COmpamelaVacaAPI.Data.deps.json
+C:\Users\LENOVO\source\repos\COmpamelaVacaAPI\COmpamelaVacaAPI.Data\bin\Debug\net6.0\COmpamelaVacaAPI.Data.dll
+C:\Users\LENOVO\source\repos\COmpamelaVacaAPI\COmpamelaVacaAPI.Data\bin\Debug\net6.0\COmpamelaVacaAPI.Data.pdb
+C:\Users\LENOVO\source\repos\COmpamelaVacaAPI\COmpamelaVacaAPI.Data\bin\Debug\net6.0\COmpamelaVacaAPI.Models.dll
+C:\Users\LENOVO\source\repos\COmpamelaVacaAPI\COmpamelaVacaAPI.Data\bin\Debug\net6.0\COmpamelaVacaAPI.Models.pdb
+C:\Users\LENOVO\source\repos\COmpamelaVacaAPI\COmpamelaVacaAPI.Data\obj\Debug\net6.0\COmpamelaVacaAPI.Data.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\COmpamelaVacaAPI\COmpamelaVacaAPI.Data\obj\Debug\net6.0\COmpamelaVacaAPI.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\COmpamelaVacaAPI\COmpamelaVacaAPI.Data\obj\Debug\net6.0\COmpamelaVacaAPI.Data.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\COmpamelaVacaAPI\COmpamelaVacaAPI.Data\obj\Debug\net6.0\COmpamelaVacaAPI.Data.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\COmpamelaVacaAPI\COmpamelaVacaAPI.Data\obj\Debug\net6.0\COmpamelaVacaAPI.Data.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\COmpamelaVacaAPI\COmpamelaVacaAPI.Data\obj\Debug\net6.0\COmpamelaVacaAPI.Data.csproj.CopyComplete
+C:\Users\LENOVO\source\repos\COmpamelaVacaAPI\COmpamelaVacaAPI.Data\obj\Debug\net6.0\COmpamelaVacaAPI.Data.dll
+C:\Users\LENOVO\source\repos\COmpamelaVacaAPI\COmpamelaVacaAPI.Data\obj\Debug\net6.0\refint\COmpamelaVacaAPI.Data.dll
+C:\Users\LENOVO\source\repos\COmpamelaVacaAPI\COmpamelaVacaAPI.Data\obj\Debug\net6.0\COmpamelaVacaAPI.Data.pdb
+C:\Users\LENOVO\source\repos\COmpamelaVacaAPI\COmpamelaVacaAPI.Data\obj\Debug\net6.0\ref\COmpamelaVacaAPI.Data.dll
